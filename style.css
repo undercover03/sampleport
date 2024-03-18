@@ -1,0 +1,79 @@
+.up
+{
+    background-color: black;
+    height: 80px;
+    width: 1400px;
+    position: fixed;
+}
+.down
+{
+    padding-top: 5px;
+}
+.gg
+{
+    margin-top: -50px;
+    margin-left: 900px;
+    justify-content: space-evenly;
+    color: white;
+    
+}
+.sec
+{
+    background-color: black;
+    height: 600px;
+    width: 1350px;
+    width: fixed;
+    color: white;
+    margin-left: -10px;
+    
+    
+}
+a{
+    color: orange;
+}
+.oo
+{
+    margin-left: 40px;
+}
+.main
+{
+    height: 400px;
+    width: 500px;
+    
+    margin: auto;
+}
+.ll
+{
+    margin-left: -400px;
+}
+.yy
+{
+    margin-top: 800px;
+}
+.gf
+{
+    margin-top: -325px;
+    margin-left: 410px;
+
+}
+.gi{
+    margin-left: 400px;
+    margin-top: 20px;
+    
+}
+.exp
+{
+    border: 3px solid blue;
+    padding: 50px;
+    width: 150px;
+    margin-left: 250px;
+}
+.edu
+{
+    border: 3px solid blue;
+    padding: 50px;
+    width: 150px;
+    margin-left: 880px;
+    margin-top: -175px;
+
+}
